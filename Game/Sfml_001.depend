@@ -393,3 +393,8 @@
 1509557143 source:c:\users\lux\documents\prog\sfml_template\main.cpp
 	<SFML/Graphics.hpp>
 
+1509575423 source:c:\users\lux\documents\github\game\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
