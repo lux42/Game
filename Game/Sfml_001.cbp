@@ -64,7 +64,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Affichage.h" />
 		<Unit filename="MAIN.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="input.h" />
+		<Unit filename="player.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
