@@ -15,7 +15,7 @@ int speed = 3;
 
 Texture perso;
 Sprite sprite_perso;
-enum Dir{Down,Left,Right,Up};
+enum Dir{Down,Left,Right,Up}; 
 Vector2i anim(1, Down);
 bool updateFPS = true;
 
@@ -35,7 +35,7 @@ int main()
 
     float fpsCount = 0;
     float switchFps = 100;
-    float fpsSpeed = 500;
+    float fpsSpeed = 10;
 
     RenderWindow window(VideoMode(800, 480), "Game ");
     window.setFramerateLimit(60);
