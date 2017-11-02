@@ -78,6 +78,7 @@ int main()
 
 
         if(fpsCount >= switchFps){
+            fpsCount = 0;
             anim.x++;
             if(anim.x * blockSize >= perso.getSize().x)
                 anim.x = 0;
