@@ -5,8 +5,9 @@
 using namespace sf;
 using namespace std;
 
-int size_game_x=1920;
-int size_game_y=1080;
+//CONSTANTES
+int size_game_x=1280;
+int size_game_y=720;
 
 // VARIABLES
 int speed = 5;
