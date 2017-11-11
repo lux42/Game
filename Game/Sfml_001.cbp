@@ -44,7 +44,13 @@
 		</Compiler>
 		<Unit filename="Affichage.h" />
 		<Unit filename="MAIN.cpp" />
+<<<<<<< HEAD
 		<Unit filename="input.h" />
+=======
+		<Unit filename="Player.h" />
+		<Unit filename="input.h" />
+		<Unit filename="player.cpp" />
+>>>>>>> c56f0b4dfe026b6ce4530a6cdac68f5e79e3e338
 		<Extensions>
 			<code_completion />
 			<envvars />
