@@ -393,11 +393,12 @@
 1509557143 source:c:\users\lux\documents\prog\sfml_template\main.cpp
 	<SFML/Graphics.hpp>
 
-1509665965 source:c:\users\lux\documents\github\game\main.cpp
+1509637796 source:c:\users\lux\documents\github\game\main.cpp
 	<SFML/Graphics.hpp>
 	<iostream>
 	<string>
-	"Player.h"
+	"input.h"
+	"Affichage.h"
 
 1509637015 source:c:\users\lux\documents\github\game\input_keyboard.cpp
 	<SFML/Graphics.hpp>
@@ -411,12 +412,5 @@
 
 1509637361 c:\users\lux\documents\github\game\input.h
 
-1509640124 c:\users\lux\documents\github\game\affichage.h
-
-1509666133 c:\users\lux\documents\github\game\player.h
-	<SFML/Graphics.hpp>
-
-1509666133 source:c:\users\lux\documents\github\game\player.cpp
-	<iostream>
-	"Player.h"
+1509637841 c:\users\lux\documents\github\game\affichage.h
 

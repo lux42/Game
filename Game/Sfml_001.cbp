@@ -42,8 +42,8 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="Affichage.h" />
 		<Unit filename="MAIN.cpp" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 		<Unit filename="input.h" />
 =======
@@ -51,6 +51,8 @@
 		<Unit filename="input.h" />
 		<Unit filename="player.cpp" />
 >>>>>>> c56f0b4dfe026b6ce4530a6cdac68f5e79e3e338
+=======
+>>>>>>> parent of c56f0b4... V1.0.5
 		<Extensions>
 			<code_completion />
 			<envvars />
